@@ -1,6 +1,5 @@
 import socket
 import os
-import random
 
 ip = input("Inserire indirizzo ip: ")
 porta =int( input("\n inserire porta:"))
